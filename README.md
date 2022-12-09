@@ -28,13 +28,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			12/8/2022, 12:37:34 AM
+			12/9/2022, 12:39:34 AM
 		</td>
 		<td>
-			303
+			311
 		</td>
 		<td>
-			483
+			492
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			11/29/2022, 12:41:44 AM
+			12/9/2022, 12:39:33 AM
 		</td>
 		<td>
-			6
+			7
 		</td>
 		<td>
-			16
+			23
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,29 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			11/24/2022, 12:45:10 AM
+			12/9/2022, 12:39:34 AM
 		</td>
 		<td>
-			6
+			7
 		</td>
 		<td>
-			9
+			11
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/taurusni/robotFriend">
+				robotFriend
+			</a>
+		</td>
+		<td>
+			12/9/2022, 12:39:33 AM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			2
 		</td>
 	</tr>
 	<tr>
@@ -77,22 +93,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			11/8/2022, 10:46:36 AM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			1
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/robotFriend">
-				robotFriend
-			</a>
-		</td>
-		<td>
-			11/22/2022, 12:46:12 AM
 		</td>
 		<td>
 			1
