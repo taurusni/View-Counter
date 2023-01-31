@@ -28,29 +28,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			1/30/2023, 12:35:53 AM
+			1/31/2023, 12:41:49 AM
 		</td>
 		<td>
-			537
+			541
 		</td>
 		<td>
-			903
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/View-Counter">
-				View-Counter
-			</a>
-		</td>
-		<td>
-			1/29/2023, 12:43:55 AM
-		</td>
-		<td>
-			16
-		</td>
-		<td>
-			33
+			907
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +44,29 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			1/13/2023, 12:40:06 AM
+			1/31/2023, 12:41:49 AM
 		</td>
 		<td>
-			14
+			17
 		</td>
 		<td>
-			32
+			35
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/taurusni/View-Counter">
+				View-Counter
+			</a>
+		</td>
+		<td>
+			1/31/2023, 12:41:49 AM
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			35
 		</td>
 	</tr>
 	<tr>
