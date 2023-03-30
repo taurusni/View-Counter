@@ -28,13 +28,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			3/29/2023, 12:44:07 AM
+			3/30/2023, 12:39:04 AM
 		</td>
 		<td>
-			889
+			895
 		</td>
 		<td>
-			1514
+			1522
 		</td>
 	</tr>
 	<tr>
@@ -125,6 +125,22 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			11/8/2022, 10:46:36 AM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/taurusni/fhs-install-v2ray">
+				fhs-install-v2ray
+			</a>
+		</td>
+		<td>
+			3/30/2023, 12:39:04 AM
 		</td>
 		<td>
 			1
