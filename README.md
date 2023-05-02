@@ -39,6 +39,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/COMP5329_deep_learning">
+				COMP5329_deep_learning
+			</a>
+		</td>
+		<td>
+			5/2/2023, 12:37:14 AM
+		</td>
+		<td>
+			28
+		</td>
+		<td>
+			42
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/github-visitors-counter-action">
 				github-visitors-counter-action
 			</a>
@@ -51,22 +67,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			53
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/COMP5329_deep_learning">
-				COMP5329_deep_learning
-			</a>
-		</td>
-		<td>
-			4/15/2023, 12:38:37 AM
-		</td>
-		<td>
-			27
-		</td>
-		<td>
-			39
 		</td>
 	</tr>
 	<tr>
