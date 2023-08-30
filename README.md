@@ -28,13 +28,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			8/29/2023, 12:32:34 AM
+			8/30/2023, 12:32:25 AM
 		</td>
 		<td>
-			1191
+			1193
 		</td>
 		<td>
-			1995
+			2001
 		</td>
 	</tr>
 	<tr>
@@ -87,6 +87,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/COMP5216_mobile_computing_IHarry">
+				COMP5216_mobile_computing_IHarry
+			</a>
+		</td>
+		<td>
+			8/30/2023, 12:32:24 AM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/robotFriend">
 				robotFriend
 			</a>
@@ -115,22 +131,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/COMP5216_mobile_computing_IHarry">
-				COMP5216_mobile_computing_IHarry
-			</a>
-		</td>
-		<td>
-			11/8/2022, 10:46:36 AM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			1
 		</td>
 	</tr>
 	<tr>
