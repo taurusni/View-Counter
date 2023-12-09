@@ -28,13 +28,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			12/7/2023, 12:35:56 AM
+			12/9/2023, 12:35:25 AM
 		</td>
 		<td>
-			1280
+			1281
 		</td>
 		<td>
-			2204
+			2205
 		</td>
 	</tr>
 	<tr>
@@ -103,6 +103,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/xray-nginx">
+				xray-nginx
+			</a>
+		</td>
+		<td>
+			12/9/2023, 12:35:26 AM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			12
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/robotFriend">
 				robotFriend
 			</a>
@@ -131,22 +147,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/xray-nginx">
-				xray-nginx
-			</a>
-		</td>
-		<td>
-			11/29/2023, 1:56:46 PM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			2
 		</td>
 	</tr>
 	<tr>
