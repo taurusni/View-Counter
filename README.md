@@ -87,6 +87,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/xray-nginx">
+				xray-nginx
+			</a>
+		</td>
+		<td>
+			12/12/2023, 12:36:35 AM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			16
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/COMP5216_mobile_computing_IHarry">
 				COMP5216_mobile_computing_IHarry
 			</a>
@@ -99,22 +115,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/xray-nginx">
-				xray-nginx
-			</a>
-		</td>
-		<td>
-			12/9/2023, 12:35:26 AM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			12
 		</td>
 	</tr>
 	<tr>
