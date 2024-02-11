@@ -92,13 +92,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			12/27/2023, 12:34:30 AM
+			2/11/2024, 12:37:08 AM
 		</td>
 		<td>
-			8
+			9
 		</td>
 		<td>
-			25
+			28
 		</td>
 	</tr>
 	<tr>
