@@ -71,6 +71,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/xray-nginx">
+				xray-nginx
+			</a>
+		</td>
+		<td>
+			1/18/2025, 12:43:24 AM
+		</td>
+		<td>
+			45
+		</td>
+		<td>
+			96
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/COMP5329_deep_learning">
 				COMP5329_deep_learning
 			</a>
@@ -83,22 +99,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			89
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/xray-nginx">
-				xray-nginx
-			</a>
-		</td>
-		<td>
-			1/17/2025, 12:44:59 AM
-		</td>
-		<td>
-			44
-		</td>
-		<td>
-			94
 		</td>
 	</tr>
 	<tr>
