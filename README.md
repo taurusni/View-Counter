@@ -165,5 +165,21 @@ Example badge for V2ray_tls_ws repository
 			1
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/taurusni/mytv-android">
+				mytv-android
+			</a>
+		</td>
+		<td>
+			2/12/2025, 12:46:44 AM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
+		</td>
+	</tr>
 </table>
 
