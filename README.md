@@ -119,6 +119,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/iStoreOS-Action">
+				iStoreOS-Action
+			</a>
+		</td>
+		<td>
+			2/14/2025, 12:46:28 AM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/robotFriend">
 				robotFriend
 			</a>
