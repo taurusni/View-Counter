@@ -76,13 +76,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			1/20/2025, 12:46:29 AM
+			3/7/2025, 1:17:54 AM
 		</td>
 		<td>
-			47
+			50
 		</td>
 		<td>
-			99
+			103
 		</td>
 	</tr>
 	<tr>
@@ -119,18 +119,18 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/taurusni/iStoreOS-Action">
-				iStoreOS-Action
+			<a href="https://github.com/taurusni/OpenWrt-Image-Builder">
+				OpenWrt-Image-Builder
 			</a>
 		</td>
 		<td>
-			2/18/2025, 12:46:21 AM
+			3/7/2025, 1:17:53 AM
 		</td>
 		<td>
-			6
+			2
 		</td>
 		<td>
-			16
+			2
 		</td>
 	</tr>
 	<tr>
