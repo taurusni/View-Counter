@@ -76,13 +76,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			3/7/2025, 1:17:54 AM
+			3/9/2025, 1:07:32 AM
 		</td>
 		<td>
-			50
+			51
 		</td>
 		<td>
-			103
+			104
 		</td>
 	</tr>
 	<tr>
