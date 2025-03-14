@@ -55,6 +55,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/xray-nginx">
+				xray-nginx
+			</a>
+		</td>
+		<td>
+			3/14/2025, 1:17:00 AM
+		</td>
+		<td>
+			52
+		</td>
+		<td>
+			105
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/View-Counter">
 				View-Counter
 			</a>
@@ -67,22 +83,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			145
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/xray-nginx">
-				xray-nginx
-			</a>
-		</td>
-		<td>
-			3/9/2025, 1:07:32 AM
-		</td>
-		<td>
-			51
-		</td>
-		<td>
-			104
 		</td>
 	</tr>
 	<tr>
