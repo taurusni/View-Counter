@@ -119,6 +119,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/fhs-install-v2ray">
+				fhs-install-v2ray
+			</a>
+		</td>
+		<td>
+			5/10/2025, 1:21:25 AM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/OpenWrt-Image-Builder">
 				OpenWrt-Image-Builder
 			</a>
@@ -163,22 +179,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/fhs-install-v2ray">
-				fhs-install-v2ray
-			</a>
-		</td>
-		<td>
-			3/30/2023, 12:39:04 AM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			1
 		</td>
 	</tr>
 	<tr>
