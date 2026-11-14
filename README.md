@@ -28,13 +28,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			11/7/2026, 4:45:17 AM
+			11/14/2026, 5:00:44 AM
 		</td>
 		<td>
-			1617
+			1618
 		</td>
 		<td>
-			2684
+			2685
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for V2ray_tls_ws repository
 			</a>
 		</td>
 		<td>
-			11/11/2026, 4:48:44 AM
+			11/14/2026, 5:00:44 AM
 		</td>
 		<td>
-			102
+			103
 		</td>
 		<td>
-			173
+			174
 		</td>
 	</tr>
 	<tr>
@@ -135,6 +135,22 @@ Example badge for V2ray_tls_ws repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/taurusni/taurusni">
+				taurusni
+			</a>
+		</td>
+		<td>
+			11/14/2026, 5:00:44 AM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			6
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/taurusni/fhs-install-v2ray">
 				fhs-install-v2ray
 			</a>
@@ -179,22 +195,6 @@ Example badge for V2ray_tls_ws repository
 		</td>
 		<td>
 			2
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/taurusni/taurusni">
-				taurusni
-			</a>
-		</td>
-		<td>
-			2/18/2023, 12:40:45 AM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			4
 		</td>
 	</tr>
 </table>
